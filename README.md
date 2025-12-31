@@ -1,5 +1,5 @@
 # H2CF
-Code coming soon...
+Hierarchical Human-Swarm Collaborative Framework
 
 ## Framework
 ![Framework](figure1_framework.png)
